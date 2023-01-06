@@ -1,2 +1,2 @@
-# alrj-server
-ALRJ Server
+# alrj
+
